@@ -1,1 +1,2 @@
-this directory is all about the shell basics
+Shell basics
+./0-current_working_directory
