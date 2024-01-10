@@ -4,5 +4,5 @@
 current_directory=$(pwd)
 
 # Print the absolute path
-echo "Current Working Directory: $current_directory"
+echo "$current_directory"
 
